@@ -1,0 +1,11 @@
+/* We will change background color, center and change text*/
+
+body {
+    background-color:rgb(185, 66, 244);
+    text-align: center;
+}
+
+h5{
+    font-size: 44px;
+    color:#f44842
+}
